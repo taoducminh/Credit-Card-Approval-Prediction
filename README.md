@@ -86,10 +86,3 @@ To use this notebook:
 2. Install the required packages using the commands provided in the Installation section.
 3. Run the Jupyter Notebook to train the models and make predictions.
 
-## Contributors
-
-- **Minh** - Data Scientist and Project Lead
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
